@@ -1,7 +1,6 @@
 
 
-# Projeto de Automação de Testes Para Processo Seletivo AppProva
-Desafio proposto em uma das etapas do processo seletivo
+# Projeto de Automação de Testes Desafio site educacional
 
 ### A Automação
 A automação segue um roteiro proposto no desafio, sendo ele:
